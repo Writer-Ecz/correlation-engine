@@ -7,7 +7,7 @@
     { "id": 5, "title": "Post 5" },
     { "id": 6, "title": "Post 6" }
   ],
-   rule_list: [
+   "rule_list": [
       {"id":"1","name":"Brute Force attack","tags":["linux","windows"],"date":"1976-04-19T12:59-0523","action":"johndoe","status":true,"severity":"high"},
       {"id":"2","name":"XSS","date":"1976-04-19T12:45-0533","tags":["linux","windows"],"action":"johndoe","status":true,"severity":"low"},
       {"id":"3","name":"Firewall","date":"20019-09-30 04:30:23","tags":["linux","sonic"],"action":"johndoe","status":true,"severity":"mid"},
