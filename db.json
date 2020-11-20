@@ -7,48 +7,77 @@
     { "id": 5, "title": "Post 5" },
     { "id": 6, "title": "Post 6" }
   ],
-  "rule_list": [
-  {
-    "ThreadID": "Us6FVMAnSVNRYtI",
-    "ClientID": "uUItRvyg27bA5YE",
-    "StartedAt": "2020-10-11 15:57:40.928568704 +0545 +0545 m=+0.020766215",
-    "Status": "PAUSED",
-    "LastRunning": "2020-10-11 15:57:40.928568754 +0545 +0545 m=+0.020766267",
-    "ExitStatus": "",
-    "PauseStatus": "ERROR #5 Correlation: XSS could not get file /var/log/firewall got error=open /var/log/firewall-2020.10.12: no such file or directory Sleeping Five Minutes",
-    "ThreadName": "#5 Correlation: XSS"
-  },
-  {
-    "ThreadID": "xU0KjaAIAZWvRCd",
-    "ClientID": "uUItRvyg27bA5YE",
-    "StartedAt": "2020-10-11 15:57:40.92874355 +0545 +0545 m=+0.020941066",
-    "Status": "DEAD",
-    "LastRunning": "2020-10-11 15:57:40.928743605 +0545 +0545 m=+0.020941117",
-    "ExitStatus": "",
-    "PauseStatus": "",
-    "ThreadName": ""
-  },
-  {
-    "ThreadID": "3HKmgdwpNYr4vNK",
-    "ClientID": "uUItRvyg27bA5YE",
-    "StartedAt": "2020-10-11 15:57:40.928259507 +0545 +0545 m=+0.020457035",
-    "Status": "PAUSED",
-    "LastRunning": "2020-10-11 15:57:40.928259574 +0545 +0545 m=+0.020457086",
-    "ExitStatus": "",
-    "PauseStatus": "ERROR #5 Correlation: XSS could not get file /var/log/firewall got error=open /var/log/firewall-2020.10.12: no such file or directory Sleeping Five Minutes",
-    "ThreadName": "#5 Correlation: XSS"
-  },
-  {
-    "ThreadID": "BMMCTkoWbQiHU0t",
-    "ClientID": "uUItRvyg27bA5YE",
-    "StartedAt": "2020-10-11 15:57:40.928433001 +0545 +0545 m=+0.020630520",
-    "Status": "PAUSED",
-    "LastRunning": "2020-10-11 15:57:40.928433056 +0545 +0545 m=+0.020630575",
-    "ExitStatus": "",
-    "PauseStatus": "ERROR #5 Correlation: Unknown VPN Location login could not get file /var/log/firewall got error=open /var/log/firewall-2020.10.12: no such file or directory Sleeping Five Minutes",
-    "ThreadName": "#5 Correlation: Unknown VPN Location login"
-  }
-],
+   rule_list: [
+    {
+      id: "1",
+      name: "Brute Force attack",
+      tags: ["linux", "windows"],
+      date: "1976-04-19T12:59-0523",
+      action: "johndoe",
+      status: true,
+      severity: "high"
+    },
+    {
+      id: "2",
+      name: "XSS",
+      date: "1976-04-19T12:45-0533",
+      tags: ["linux", "windows"],
+      action: "johndoe",
+      status: true,
+      severity: "low"
+    },
+    {
+      id: "3",
+      name: "Firewall",
+      date: "20019-09-30 04:30:23",
+      tags: ["linux", "sonic"],
+      action: "johndoe",
+      status: true,
+      severity: "mid"
+    },
+    {
+      id: "4",
+      name: "Firewall",
+      date: "20019-09-30 04:30",
+      tags: ["linux", "centos"],
+      action: "johndoe",
+      status: true,
+      severity: "mid"
+    },
+    {
+      id: "5",
+      name: "Firewall",
+      date: "20019-09-30 04:30",
+      tags: ["linux", "firewall"],
+      action: "johndoe",
+      status: false,
+      severity: "mid"
+    },
+    {
+      id: "6",
+      name: "Firewall",
+      date: "20019-09-30 04:30",
+      action: "johndoe",
+      status: true,
+      severity: "mid"
+    },
+    {
+      id: "7",
+      name: "Firewall",
+      date: "20019-09-30 04:30",
+      action: "johndoe",
+      status: true,
+      severity: "mid"
+    },
+    {
+      id: "8",
+      name: "prakash Force attack",
+      date: "20019-07-30 04:30",
+      action: "prakash",
+      status: false,
+      severity: "high"
+    }
+  ]
   "audit": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
