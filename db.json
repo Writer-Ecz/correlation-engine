@@ -61,6 +61,10 @@
     "name": "SQL Injection",
     "date": "20019-09-30 04:30",
     "action": "johndoe",
+       "tags": [
+      "linux",
+      "firewall"
+    ],
     "status": true,
     "severity": "mid"
   },
@@ -68,10 +72,14 @@
     "id": "7",
     "name": "CORS",
     "date": "20019-09-30 04:30",
+       "tags": [
+      "linux",
+      "firewall"
+    ],
     "action": "johndoe",
     "status": true,
     "severity": "mid"
-  },
+  }
 ],
   "audit": [
     { "id": 1, "body": "some comment", "postId": 1 },
