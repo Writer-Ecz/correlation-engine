@@ -22,7 +22,7 @@
   },
   {
     "id": "2",
-    "name": "XSS",
+    "name": "Distributed Denial-of-Service (DDoS) attack",
     "date": "1976-04-19T12:45-0533",
     "tags": [
       "linux",
@@ -45,20 +45,8 @@
     "severity": "mid"
   },
   {
-    "id": "4",
-    "name": "Firewall",
-    "date": "20019-09-30 04:30",
-    "tags": [
-      "linux",
-      "centos"
-    ],
-    "action": "johndoe",
-    "status": true,
-    "severity": "mid"
-  },
-  {
     "id": "5",
-    "name": "Firewall",
+    "name": "Cross Site Scripting",
     "date": "20019-09-30 04:30",
     "tags": [
       "linux",
@@ -70,7 +58,7 @@
   },
   {
     "id": "6",
-    "name": "Firewall",
+    "name": "SQL Injection",
     "date": "20019-09-30 04:30",
     "action": "johndoe",
     "status": true,
@@ -78,20 +66,12 @@
   },
   {
     "id": "7",
-    "name": "Firewall",
+    "name": "CORS",
     "date": "20019-09-30 04:30",
     "action": "johndoe",
     "status": true,
     "severity": "mid"
   },
-  {
-    "id": "8",
-    "name": "prakash Force attack",
-    "date": "20019-07-30 04:30",
-    "action": "prakash",
-    "status": false,
-    "severity": "high"
-  }
 ],
   "audit": [
     { "id": 1, "body": "some comment", "postId": 1 },
