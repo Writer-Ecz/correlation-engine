@@ -11,7 +11,7 @@
   {
     "id": "1",
     "name": "Brute Force attack",
-    "tags": [
+    "Tags": [
       "linux",
       "windows"
     ],
@@ -24,7 +24,7 @@
     "id": "2",
     "name": "Distributed Denial-of-Service (DDoS) attack",
     "date": "1976-04-19T12:45-0533",
-    "tags": [
+    "Tags": [
       "linux",
       "windows"
     ],
@@ -36,7 +36,7 @@
     "id": "3",
     "name": "Firewall",
     "date": "20019-09-30 04:30:23",
-    "tags": [
+    "Tags": [
       "linux",
       "sonic"
     ],
@@ -48,7 +48,7 @@
     "id": "5",
     "name": "Cross Site Scripting",
     "date": "20019-09-30 04:30",
-    "tags": [
+    "Tags": [
       "linux",
       "firewall"
     ],
@@ -61,7 +61,7 @@
     "name": "SQL Injection",
     "date": "20019-09-30 04:30",
     "action": "johndoe",
-       "tags": [
+       "Tags": [
       "linux",
       "firewall"
     ],
@@ -72,7 +72,7 @@
     "id": "7",
     "name": "CORS",
     "date": "20019-09-30 04:30",
-       "tags": [
+       "Tags": [
       "linux",
       "firewall"
     ],
