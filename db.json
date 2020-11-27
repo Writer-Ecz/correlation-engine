@@ -101,7 +101,12 @@
       "msg": "Non existent thread ID request from client "
     },
     {
-      "type": "RuleMetaData Requested",
+      "type": "EDIT Requested",
+      "level": "INFO",
+      "msg": "All meta data request from client uUItRvyg27bA5YE"
+    },
+    {
+      "type": "DELETE Requested",
       "level": "INFO",
       "msg": "All meta data request from client uUItRvyg27bA5YE"
     },
@@ -116,12 +121,7 @@
       "msg": "All meta data request from client uUItRvyg27bA5YE"
     },
     {
-      "type": "RuleMetaData Requested",
-      "level": "INFO",
-      "msg": "All meta data request from client uUItRvyg27bA5YE"
-    },
-    {
-      "type": "RuleMetaData Requested",
+      "type": "UPDATE Requested",
       "level": "INFO",
       "msg": "All meta data request from client uUItRvyg27bA5YE"
     },
