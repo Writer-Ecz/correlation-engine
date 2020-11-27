@@ -87,10 +87,56 @@
     "severity": "mid"
   }
 ],
-  "audit": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
+  "audit": {
+  "status": "success",
+  "audit-logs": [
+    {
+      "type": "RuleMetaData Requested",
+      "level": "INFO",
+      "msg": "All meta data request from client "
+    },
+    {
+      "type": "RuleMetaData Requested",
+      "level": "FATAL",
+      "msg": "Non existent thread ID request from client "
+    },
+    {
+      "type": "RuleMetaData Requested",
+      "level": "INFO",
+      "msg": "All meta data request from client uUItRvyg27bA5YE"
+    },
+    {
+      "type": "RuleMetaData Requested",
+      "level": "INFO",
+      "msg": "All meta data request from client uUItRvyg27bA5YE"
+    },
+    {
+      "type": "RuleMetaData Requested",
+      "level": "INFO",
+      "msg": "All meta data request from client uUItRvyg27bA5YE"
+    },
+    {
+      "type": "RuleMetaData Requested",
+      "level": "INFO",
+      "msg": "All meta data request from client uUItRvyg27bA5YE"
+    },
+    {
+      "type": "RuleMetaData Requested",
+      "level": "INFO",
+      "msg": "All meta data request from client uUItRvyg27bA5YE"
+    },
+    {
+      "type": "RuleMetaData Requested",
+      "level": "INFO",
+      "msg": "All meta data request from client uUItRvyg27bA5YE"
+    },
+    {
+      "type": "RuleMetaData Requested",
+      "level": "INFO",
+      "msg": "All meta data request from client uUItRvyg27bA5YE"
+    }
+  ]
+},
   "profile": {
     "name": "typicode"
   }
