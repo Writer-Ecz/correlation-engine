@@ -96,7 +96,7 @@
       "msg": "All meta data request from client "
     },
     {
-      "type": "RuleMetaData Requested",
+      "type": "ADD Requested",
       "level": "FATAL",
       "msg": "Non existent thread ID request from client "
     },
