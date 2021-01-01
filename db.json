@@ -76,7 +76,7 @@
   {
     "id": "7",
     "name": "CORS",
-    "date": "2020-09-30 04:30",
+    "date": "2022-10-30 04:30",
        "Tags": [
       "linux",
       "firewall"
@@ -85,7 +85,46 @@
     "action": "johndoe",
     "status": true,
     "severity": "mid"
-  }
+  },
+        {
+    "id": "8",
+    "name": "Brute Force attack",
+    "Tags": [
+      "linux",
+      "windows"
+    ],
+     "Status": "PAUSED",
+    "date": "1977-04-19T12:59-0523",
+    "action": "johndoe",
+    "status": true,
+    "severity": "high"
+  },
+  {
+    "id": "9",
+    "name": "Distributed Denial-of-Service (DDoS) attack",
+    "date": "1970-02-19T12:45-0533",
+    "Tags": [
+      "linux",
+      "windows"
+    ],
+     "Status": "PAUSED",
+    "action": "johndoe",
+    "status": true,
+    "severity": "low"
+  },
+  {
+    "id": "10",
+    "name": "Firewall",
+    "date": "20122-05-30 04:30:23",
+    "Tags": [
+      "linux",
+      "sonic"
+    ],
+     "Status": "ACTIVE",
+    "action": "johndoe",
+    "status": true,
+    "severity": "mid"
+  },
 ],
   "audit": {
   "status": "success",
