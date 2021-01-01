@@ -124,7 +124,7 @@
     "action": "johndoe",
     "status": true,
     "severity": "mid"
-  },
+  }
 ],
   "audit": {
   "status": "success",
