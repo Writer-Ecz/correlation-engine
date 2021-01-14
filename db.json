@@ -1,7 +1,6 @@
 {
    "rule": [
-    { "id": 1, "name":"sabin",
-     "title": "Post 1" },
+    { "id": 1, "name":"sabin","title": "Post 1" },
     { "id": 2,  "name":"sabin","title": "Post 2" },
     { "id": 3,  "name":"shibu","title": "Post 3" },
     { "id": 4, "name":"sabin", "title": "Post 4" },
