@@ -1,12 +1,12 @@
 {
    "rule": [
-    { "id": 1, name:"sabin",
+    { "id": 1, "name":"sabin",
      "title": "Post 1" },
-    { "id": 2,  name:"sabin","title": "Post 2" },
-    { "id": 3,  name:"shibu","title": "Post 3" },
-    { "id": 4, name:"sabin", "title": "Post 4" },
-    { "id": 5,  name:"shibu","title": "Post 5" },
-    { "id": 6,  name:"bikram","title": "Post 6" }
+    { "id": 2,  "name":"sabin","title": "Post 2" },
+    { "id": 3,  "name":"shibu","title": "Post 3" },
+    { "id": 4, "name":"sabin", "title": "Post 4" },
+    { "id": 5,  "name":"shibu","title": "Post 5" },
+    { "id": 6,  "name":"bikram","title": "Post 6" }
   ],
    "rule_list": [
   {
