@@ -15,7 +15,6 @@
       "linux",
       "windows"
     ],
-     "Status": "PAUSED",
     "date": "1976-04-19T12:59-0523",
     "action": "johndoe",
     "status": true,
@@ -29,7 +28,6 @@
       "linux",
       "windows"
     ],
-     "Status": "PAUSED",
     "action": "johndoe",
     "status": false,
     "severity": "low"
@@ -42,9 +40,8 @@
       "linux",
       "sonic"
     ],
-     "Status": "ACTIVE",
     "action": "johndoe",
-    "status": true,
+    "status": false,
     "severity": "mid"
   },
   {
@@ -55,7 +52,6 @@
       "linux",
       "firewall"
     ],
-     "Status": "LIVE",
     "action": "johndoe",
     "status": false,
     "severity": "mid"
@@ -69,7 +65,6 @@
       "linux",
       "firewall"
     ],
-     "Status": "ACTIVE",
     "status": true,
     "severity": "mid"
   },
@@ -81,7 +76,6 @@
       "linux",
       "firewall"
     ],
-     "Status": "PAUSED",
     "action": "johndoe",
     "status": true,
     "severity": "mid"
@@ -93,7 +87,6 @@
       "linux",
       "windows"
     ],
-     "Status": "PAUSED",
     "date": "1977-04-19T12:59-0523",
     "action": "johndoe",
     "status": false,
@@ -107,7 +100,6 @@
       "linux",
       "windows"
     ],
-     "Status": "PAUSED",
     "action": "johndoe",
     "status": true,
     "severity": "low"
@@ -120,9 +112,8 @@
       "linux",
       "sonic"
     ],
-     "Status": "ACTIVE",
     "action": "johndoe",
-    "status": true,
+    "status": false,
     "severity": "mid"
   }
 ],
