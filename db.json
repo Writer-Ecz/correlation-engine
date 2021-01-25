@@ -31,7 +31,7 @@
     ],
      "Status": "PAUSED",
     "action": "johndoe",
-    "status": true,
+    "status": false,
     "severity": "low"
   },
   {
@@ -96,7 +96,7 @@
      "Status": "PAUSED",
     "date": "1977-04-19T12:59-0523",
     "action": "johndoe",
-    "status": true,
+    "status": false,
     "severity": "high"
   },
   {
